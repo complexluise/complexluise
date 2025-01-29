@@ -1,6 +1,7 @@
 ---
-layout: home
-title: "Bienvenido a Mi Blog"
+layout: posts
+title: "Mi Blog"
 ---
+
 
 Aquí están mis últimas publicaciones:
